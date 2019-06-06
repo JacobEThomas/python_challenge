@@ -1,2 +1,2 @@
 # python-challenge
-UT Data Bootcamp Homework 3
+Each directory contains all necessary tools for the programs to run.
