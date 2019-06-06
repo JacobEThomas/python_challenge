@@ -1,0 +1,16 @@
+Financial Analysis
+----------------------
+Total Months:
+86
+Total (USD):
+38382578
+Average Change (USD):
+446309
+Greatest Profits (Month):
+Sep-2013
+Greatest Profits (USD):
+1170593
+Greatest Loss (Month):
+Sep-2013
+Greatest Loss (USD):
+-1196225
